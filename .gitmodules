@@ -1,3 +1,9 @@
 [submodule "relational_algebra_query_processor"]
 	path = relational_algebra_query_processor
 	url = https://github.com/jsoulier/comp_3005_relational_algebra_query_processor
+[submodule "project"]
+	path = project
+	url = https://github.com/jsoulier/comp_3005_project
+[submodule "assignment_3_1"]
+	path = assignment_3_1
+	url = https://github.com/jsoulier/comp_3005_assignment_3_1
